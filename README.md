@@ -20,3 +20,6 @@ This project aims to leverage advanced neural network capabilities to aid in the
 # Usage:
 The notebook is designed to run in a Google Colab environment with data hosted on Google Drive, ensuring easy access and scalability. Users can train the model with their own Alzheimer's Disease image datasets by adjusting the paths and parameters as necessary.
 
+
+Dataset Link: https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
+
